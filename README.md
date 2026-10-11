@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
