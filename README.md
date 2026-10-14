@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
