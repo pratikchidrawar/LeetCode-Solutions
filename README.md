@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
+| [1768-merge-strings-alternately](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
