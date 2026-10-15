@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
