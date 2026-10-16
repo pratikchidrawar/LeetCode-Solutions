@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/PratikC74/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Math
