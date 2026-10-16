@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/PratikC74/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -108,8 +109,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
+| [1871-jump-game-vii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
