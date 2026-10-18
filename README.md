@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1324-print-words-vertically](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1324-print-words-vertically) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2000-reverse-prefix-of-word](https://github.com/PratikC74/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
