@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1859-sorting-the-sentence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1859-sorting-the-sentence) |
 ## Bubble Sort
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0539-minimum-time-difference](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [1324-print-words-vertically](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1324-print-words-vertically) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0539-minimum-time-difference](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 ## String Matching
 |  |
 | ------- |
