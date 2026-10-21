@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
