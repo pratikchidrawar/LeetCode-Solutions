@@ -2,11 +2,11 @@ class Solution {
     static int solve(int[] arr, int target, int left, int right){ 
         // base case 
         if(left > right){ 
-            return -1; // Fixed: Changed "-1;" string/syntax error to integer -1
+            return -1; 
         } 
         
         // Processing or Binary Search ka logic 
-        int mid = left + (right - left) / 2; // Fixed: Prevents potential integer overflow
+        int mid = left + (right - left) / 2; 
         
         if(arr[mid] == target){ 
             return mid; 
@@ -25,7 +25,7 @@ class Solution {
     public int search(int[] nums, int target) { 
         int left = 0; 
         int right = nums.length - 1; 
-        int ans = solve(nums, target, left, right); // Fixed: Changed 'arr' to 'nums'
+        int ans = solve(nums, target, left, right); 
         return ans; 
     } 
 }
