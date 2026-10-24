@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
@@ -187,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
