@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
