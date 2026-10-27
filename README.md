@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0503-next-greater-element-ii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0704-binary-search](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -212,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
