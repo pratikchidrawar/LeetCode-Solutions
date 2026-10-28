@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1324-print-words-vertically](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1324-print-words-vertically) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1324-print-words-vertically](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1324-print-words-vertically) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Monotonic Stack
 |  |
 | ------- |
