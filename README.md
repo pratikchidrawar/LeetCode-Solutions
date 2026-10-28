@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0704-binary-search](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
@@ -217,4 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
