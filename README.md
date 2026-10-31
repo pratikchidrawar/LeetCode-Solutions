@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -230,9 +232,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0494-target-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
