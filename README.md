@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0925-long-pressed-name) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1324-print-words-vertically](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1324-print-words-vertically) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Recursion
 |  |
 | ------- |
