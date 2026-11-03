@@ -270,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0472-concatenated-words) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
