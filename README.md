@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PratikC74/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
