@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0392-is-subsequence) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/PratikC74/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
